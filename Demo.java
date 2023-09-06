@@ -5,7 +5,7 @@ public class Demo {
        // float type
       float f = 20.25f;
       System.out.println("f=" + f);
-      
+      //
       // hi ako si janlloyd
       double d = 20.25d;
       System.out.println("d=" + d);
